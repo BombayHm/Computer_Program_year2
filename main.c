@@ -6,7 +6,7 @@ int namecard()
     printf("\t\t-        Sarannakorn Homon          -\n"); // \n new line
     printf("\t\t-              (SHM)                -\n");
     printf("\t\t-              TEE2E                -\n");
-    printf("\t\t-          TEL:0623640820           -\n");
+    printf("\t\t-          TEL:                     -\n");
     printf("\t\t-------------------------------------\n"); // use Monospace font only for terminal
     return (0);
 }
